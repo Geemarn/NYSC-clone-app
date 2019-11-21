@@ -1,0 +1,65 @@
+.landing {
+  position: relative;
+  background: url("./img/8899.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin-top: -24px;
+  margin-bottom: -50px;
+}
+.landing-inner {
+  padding-top: 80px;
+}
+
+.text-clr {
+  color: green;
+}
+
+.name {
+  font-weight: 600;
+}
+
+.margin-left2 {
+  margin-left: 45%;
+}
+.margin-left {
+  margin-left: 70%;
+}
+.admin-text {
+  font-weight: 600;
+  color: rgb(6, 139, 61);
+}
+.admin-btn {
+  border: 1px solid rgba(6, 139, 61, 0.541);
+  padding: 4px;
+  margin: 2px;
+  background: white;
+  color: rgb(2, 29, 2);
+  border-radius: 5%;
+}
+.admin-btn:hover {
+  background-color: rgba(6, 139, 61, 0.541);
+  color: white;
+}
+.admin-user-btn {
+  border: 1px solid rgba(6, 139, 61, 0.541);
+  padding: 4px;
+  margin: 2px;
+  background: rgba(241, 247, 243, 0.884);
+  color: rgb(6, 53, 35);
+  border-radius: 5%;
+}
+.admin-user-btn:hover {
+  background-color: white;
+  color: rgb(6, 51, 6);
+}
+.pad {
+  padding: 3px;
+}
+.main-container {
+  min-height: calc(85vh - 70px);
+}
+
+.footer {
+  height: 50px;
+}
